@@ -1,0 +1,11 @@
+.sgbuilt_user
+user/rt2880_app/scripts/.config
+lib/.config
+lib/.config.cmd
+lib/.config.old
+user/busybox/.config.old
+user/busybox/scripts/basic/docproc
+user/busybox/include/config/
+user/busybox/scripts/basic/fixdep
+user/busybox/scripts/basic/split-include
+user/busybox/scripts/kconfig/conf
