@@ -1,0 +1,28 @@
+Ralink AP SDK - History
+
+Version 3.6.0.0
+===============
+
+New functions:
+
+- [IPv6] Support IPv6 Ready logo
+- [IPv6] Support IPv6 MLD multicast proxy/snooping (ECMH)
+- [Raeth] Support skb recycling mechanism
+- [Raeth] Support switch packet count debug (/proc/rtxxxx/esw_cnt)
+- [Raeth] Support phy register dump
+- [Raeth] Re-initialize frame engine if TX timeout occurred
+- [WDG] Supprot user and kernel mode watchdog module
+- [NVRAM] Support kernel mode nvram
+- [Utility] Support iPerf
+- [Utility] Support ebtables
+
+WiFi update:
+
+- [RT2860APD] 802.1X daemon update
+- [WSCD] WSC daemon update
+- [GUI] Support WSC 2.0
+
+Bug fixed:
+
+- [Raeth] Fix ifconfig eth2 down/up crash issue
+
